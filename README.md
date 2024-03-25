@@ -4,6 +4,10 @@ Welcome to Flash Card App! This project implements a flash card application in P
 
 To track user performance, two buttons, 'True' and 'False,' allow users to indicate the accuracy of their guesses. The app dynamically updates a score, providing users with feedback on their performance. To facilitate learning from mistakes, all errors are logged and stored in a new CSV file named 'words_to_learn.' This personalized learning approach ensures users focus on areas that need improvement, fostering an effective language learning experience.
 
+
+https://github.com/shivam188132/flash-card/assets/129589858/bfe0cfe4-fb9c-453d-b522-1a663d82d8d1
+
+
 ## Tools & Technologies Used
 
 - Pandas
